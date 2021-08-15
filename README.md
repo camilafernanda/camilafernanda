@@ -1,6 +1,12 @@
 ## Olá, me chamo Camila Fernanda! 
 ### Bem vindo ao meu perfil GitHub 👋
 
+- 📚 Estudante de Engenharia Biomédica - Universidade Federal de Uberlândia
+- 💻 Estagiária do Scuba Team - Grupo Alura
+- 👩‍🔧 Assessora de Gestão de Pessoas - Crea Jr-MG Núcleo Uberlândia
+- 💪 Colaboradora - Programa Meninas da Física
+- 👩‍💻 Estou me desafiando aprendendo Java e DevOps
+
 <div>
   <a href="https://github.com/camilafernanda">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilafernanda&layout=compact&langs_count=7&theme=dracula"/>
@@ -16,17 +22,3 @@
   
   ![Snake animation](https://github.com/camilafernanda/camilafernanda/blob/output/github-contribution-grid-snake.svg)
   
-<!--
-**camilafernanda/camilafernanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
