@@ -3,7 +3,7 @@
 
 - 📚 Estudante de Engenharia Biomédica - Universidade Federal de Uberlândia
 - 💻 Estagiária do Scuba Team - Grupo Alura
-- 👩‍🔧 Assessora de Gestão de Pessoas - Crea Jr-MG Núcleo Uberlândia
+- 👩‍🔧 Coordenadora Adjunta de Gestão de Pessoas - Crea Jr-MG Núcleo Uberlândia
 - 💪 Colaboradora - Programa Meninas da Física
 - 👩‍💻 Estou me desafiando aprendendo Java e DevOps
 
