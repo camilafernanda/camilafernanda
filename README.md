@@ -5,7 +5,7 @@
 - 💻 Estagiária do Scuba Team - Grupo Alura
 - 👩‍🔧 Coordenadora Adjunta de Gestão de Pessoas - Crea Jr-MG Núcleo Uberlândia
 - 💪 Colaboradora - Programa Meninas da Física
-- 👩‍💻 Estou me desafiando aprendendo Java e DevOps
+- 👩‍💻 Estou me desafiando aprendendo Java e algumas ferramentas DevOps
 
 ##
 <div>
