@@ -1,5 +1,6 @@
-## Olá, me chamo Camila Fernanda! 
-### Bem vindo ao meu perfil GitHub 👋
+# Olá, me chamo Camila Fernanda! 
+
+## Bem vindo ao meu perfil GitHub 👋
 
 - 📚 Estudante de Engenharia Biomédica - Universidade Federal de Uberlândia
 - 💻 Estagiária do Scuba Team - Grupo Alura
