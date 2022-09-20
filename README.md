@@ -2,11 +2,11 @@
 
 ## Bem vindo ao meu perfil GitHub 👋
 
+- 👩‍🏫 Instrutora e Desenvolvedora de Software - Grupo Alura
 - 📚 Estudante de Engenharia Biomédica - Universidade Federal de Uberlândia
 - 💻 Estagiária do Scuba Team - Grupo Alura
 - 👩‍🔧 Coordenadora Adjunta de Gestão de Pessoas - Crea Jr-MG Núcleo Uberlândia
 - 💪 Colaboradora - Programa Meninas da Física
-- 👩‍💻 Estou me desafiando aprendendo Java e algumas ferramentas DevOps
 
 ### Ferramentas e Tecnologias
 
