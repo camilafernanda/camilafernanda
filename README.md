@@ -1,6 +1,6 @@
-# Olá, me chamo Camila Fernanda! 
+# Olá, boas vindas ao meu perfil GitHub 👋
 
-## Bem vindo ao meu perfil GitHub 👋
+## Me chamo Camila Fernanda, mas pode me chamar de *Mila*!
 
 <p align="right">
 <table width="100%">
