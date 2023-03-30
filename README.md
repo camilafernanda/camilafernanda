@@ -18,6 +18,8 @@ No tempo livre, gosto de jogos da Nintendo e Valorant. E sinta-se à vontade par
 </table>
 </p>
 
+<img src="https://views.whatilearened.today/views/github/camilafernanda/views.svg"> <a href="https://github.com/camilafernanda/"><img src="https://img.shields.io/github/followers/camilafernanda?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+
 ### Experiências
 
 - 👩‍🏫 Instrutora e Desenvolvedora de Software - Alura
