@@ -6,7 +6,7 @@
 <table width="100%">
 <tr><td valign="top" width="50%">
 
-Sou quase engenheira pela Universidade Federal de Uberlândia e instrutora na Alura. Atuei como estagiária do Scuba Team e já realizei algumas monitorias de Física, Circuitos Elétricos e até mesmo Processamento de Sinais. Atualmente, estou trabalhando na produção de conteúdos relacionados a DevOps e também estou sempre em busca de mergulhar cada vez mais em tecnologia.
+Sou *quase engenheira* pela Universidade Federal de Uberlândia e **instrutora na Alura**. Atuei como estagiária do Scuba Team e já realizei algumas monitorias de Física, Circuitos Elétricos e até mesmo Processamento de Sinais. Atualmente, estou trabalhando na produção de conteúdos relacionados a *Segurança e DevOps* e, também estou sempre em busca de mergulhar cada vez mais em tecnologia.
 
 No tempo livre, gosto de jogos da Nintendo e Valorant. E sinta-se à vontade para me contatar e conversar sobre projetos ou apenas para trocar ideias 🌻
   
