@@ -43,6 +43,7 @@ No tempo livre, gosto de jogos da Nintendo e Valorant. E sinta-se à vontade par
 
 #### Cursos
 
+- [Desenvolvimento Seguro: estratégias de segurança para dados de entrada](https://www.alura.com.br/curso-online-desenvolvimento-seguro-estrategias-seguranca-dados-entrada)
 - [Pentest: explorando vulnerabilidades em aplicações web](https://www.alura.com.br/curso-online-pentest-explorando-vulnerabilidades-aplicacoes-web)
 - [Pentest: investigando vulnerabilidades em um servidor de aplicações web](https://www.alura.com.br/curso-online-pentest-vulnerabilidades-servidor-aplicacoes-web)
 - [Segurança de rede: firewall, WAF e SIEM](https://www.alura.com.br/curso-online-seguranca-rede-firewall-waf-siem)
