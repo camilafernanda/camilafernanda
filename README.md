@@ -6,7 +6,7 @@
 <table width="100%">
 <tr><td valign="top" width="50%">
 
-Sou *quase engenheira* pela Universidade Federal de Uberlândia e **instrutora na Alura**. Atuei como estagiária do Scuba Team e já realizei algumas monitorias de Física, Circuitos Elétricos e até mesmo Processamento de Sinais. Atualmente, estou trabalhando na produção de conteúdos relacionados a *Segurança e DevOps* e, também estou sempre em busca de mergulhar cada vez mais em tecnologia.
+Sou **Desenvolvedora de Software** com foco em Backend no Bradesco e **instrutora na Alura**. Atuei como estagiária do Scuba Team e já realizei algumas monitorias de Física, Circuitos Elétricos e até mesmo Processamento de Sinais. Na Alura, trabalhei na produção de conteúdos relacionados a *Segurança e DevOps*. E estou sempre em busca de mergulhar cada vez mais em tecnologia.
 
 No tempo livre, gosto de jogos da Nintendo e Valorant. E sinta-se à vontade para me contatar e conversar sobre projetos ou apenas para trocar ideias 🌻
   
@@ -24,6 +24,7 @@ No tempo livre, gosto de jogos da Nintendo e Valorant. E sinta-se à vontade par
 
 ### Experiências
 
+- 💻 Desenvolvedora de Software - Bradesco
 - 👩‍🏫 Instrutora e Desenvolvedora de Software - Alura
 - 📚 Estudante de Engenharia Biomédica - Universidade Federal de Uberlândia
 - 💻 Estagiária do Scuba Team - Alura
@@ -32,12 +33,17 @@ No tempo livre, gosto de jogos da Nintendo e Valorant. E sinta-se à vontade par
 
 ### Ferramentas e Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="R" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
 
 
 ### Estou aprendendo
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" alt="azure" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+          
+          
+
+### Certificações
+- **AZ-900** Microsoft Certified: Azure Fundamentals 
 
 ### Conteúdos
 
